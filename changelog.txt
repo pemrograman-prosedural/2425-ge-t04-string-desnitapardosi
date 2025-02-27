@@ -1,0 +1,3 @@
+Kami kesulitan dalam mengubah string menjadi angka pada T04_01.c
+Kami mulai memahami cara mengubah angka menjadi string pada T04_02.c
+Kami sudah menyelesaikan praktikum T04 dengan baik.
